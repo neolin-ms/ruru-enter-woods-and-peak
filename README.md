@@ -40,18 +40,18 @@ ru-enter-woods-and-peaks/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone github.com
+   git 
    ```
 2. Install dependencies:
    ```bash
-   cd client && npm install
-   cd ../server && npm install
+   cd 
+   cd 
    ```
 3. Set up your environment variables (`.env`):
    ```env
-   MAPBOX_TOKEN=your_mapbox_token
-   DATABASE_URL=your_database_url
-   GOV_PERMIT_API_KEY=your_api_key
+   MAPBOX_TOKEN=
+   DATABASE_URL=
+   GOV_PERMIT_API_KEY=
    ```
 4. Run the development servers:
    ```bash
